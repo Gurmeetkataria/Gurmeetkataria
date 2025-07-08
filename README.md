@@ -1,4 +1,4 @@
-#### 👋Hello! I’m Gurmeet Kataria
+# 👋Hello! I’m Gurmeet Kataria
 
 ## 💼 About Me
 
