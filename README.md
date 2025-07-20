@@ -9,11 +9,11 @@
 
 ## 🛠️ Skills & Tools
 
-🌐 Web Development:
+### 🌐 Web Development:
 - HTML5, CSS3, JavaScript (Beginner)
 - Responsive Design & Layouts
 
-👨‍💻 Programming: 
+### 👨‍💻 Programming: 
 - C++ (Basics: input/output, variables, data types, operators, if/else, loops)
 - Understanding of problem-solving and logic building
 
