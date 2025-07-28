@@ -21,7 +21,7 @@
 ## 📫 Contact
 Email: gurmeetkataria7@gmail.com
 
-linkedin:https://www.linkedin.com/in/gurmeet-kataria-ab5718362/
+linkedin:https://www.linkedin.com/in/gurmeet-kataria
 
 ## ⚡ Fun Fact
 I started learning development through curiosity and now it’s something I’m truly passionate about. I believe in **"building while learning"** — every project, no matter how small is a step toward mastery.
