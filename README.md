@@ -1,6 +1,6 @@
 # 👋Hello! I’m Gurmeet Kataria
 
-## 💼 About Me
+### 💼 About Me
 
 - 🧠 Curious learner with a growth mindset  
 - 🌐 Exploring the world of front-end development and UI/UX design  
