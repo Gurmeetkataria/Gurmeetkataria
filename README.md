@@ -19,7 +19,9 @@
 
 
 ## 📫 Contact
-Email: gurmeetkataria7@gmail.com
+Portfolio:https://gurmeet-kataria-portfolio.vercel.app
+
+Email:gurmeetkataria7@gmail.com
 
 linkedin:https://www.linkedin.com/in/gurmeetkataria
 
